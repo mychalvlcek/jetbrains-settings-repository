@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="d" value="dump($END$);" description="'dump' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
