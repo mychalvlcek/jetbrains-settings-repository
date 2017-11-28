@@ -1,6 +1,6 @@
 <scheme name="my-dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="modified">2016-12-05T16:18:21</property>
+    <property name="modified">2016-12-05T14:49:35</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -11,16 +11,10 @@
         <option name="FOREGROUND" value="ff00" />
       </value>
     </option>
-    <option name="DEFAULT_METADATA">
-      <value>
-        <option name="FOREGROUND" value="bbb529" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff00" />
-        <option name="BACKGROUND" value="1d411f" />
+        <option name="BACKGROUND" value="4104" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
