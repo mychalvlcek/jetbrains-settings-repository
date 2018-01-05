@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.latte" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,9 +14,13 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.latte</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.l</mask>
+      <mask>*.la</mask>
+      <mask>*.late</mask>
+      <mask>*.lat</mask>
+      <mask>*.latte</mask>
     </recentFileMasks>
   </component>
 </application>
