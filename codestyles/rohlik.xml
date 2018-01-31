@@ -1,8 +1,8 @@
 <code_scheme name="rohlik" version="173">
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <codeStyleSettings language="JAVA">
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
