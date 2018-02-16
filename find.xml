@@ -23,6 +23,7 @@
       <mask>*Presenter.php</mask>
       <mask>*.js</mask>
       <mask>*.latte</mask>
+      <mask>*.neon</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
