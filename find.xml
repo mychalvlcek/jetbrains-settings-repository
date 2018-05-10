@@ -13,7 +13,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.php</mask>
-    <mask>*.neon</mask>
     <mask>*.yaml</mask>
+    <mask>*.neon</mask>
   </component>
 </application>
