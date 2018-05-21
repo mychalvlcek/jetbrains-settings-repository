@@ -1,6 +1,7 @@
 <code_scheme name="mv" version="173">
   <codeStyleSettings language="JAVA">
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
