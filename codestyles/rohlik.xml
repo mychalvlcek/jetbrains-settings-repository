@@ -1,5 +1,15 @@
 <code_scheme name="rohlik" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </value>
+  </option>
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <indentOptions>
@@ -11,6 +21,11 @@
     <option name="BLANK_LINES_AROUND_CLASS" value="3" />
     <option name="BLANK_LINES_AROUND_METHOD" value="3" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Twig">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
