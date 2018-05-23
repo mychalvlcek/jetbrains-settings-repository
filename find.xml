@@ -14,6 +14,7 @@
     <mask>*.yaml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.latte</mask>
     <mask>*.neon</mask>
   </component>
 </application>
