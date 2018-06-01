@@ -13,8 +13,8 @@
     <mask>*.mxml</mask>
     <mask>*.yaml</mask>
     <mask>*.latte</mask>
-    <mask>*.neon</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.neon</mask>
   </component>
 </application>
